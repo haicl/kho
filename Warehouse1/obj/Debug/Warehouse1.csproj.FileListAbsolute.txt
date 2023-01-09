@@ -1,0 +1,849 @@
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\Warehouse1.exe.config
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\Warehouse1.exe
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\Warehouse1.pdb
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Data.v19.2.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Utils.v19.2.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraBars.v19.2.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraCharts.v19.2.UI.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraScheduler.v19.2.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\Guna.UI.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\Guna.UI2.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Images.v19.2.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Office.v19.2.Core.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Data.v19.2.xml
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Utils.v19.2.xml
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraBars.v19.2.xml
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraCharts.v19.2.UI.xml
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraScheduler.v19.2.xml
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Office.v19.2.Core.xml
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraScheduler.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraScheduler.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.FBaoLoi.resources
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\F_Khay.FKhay.resources
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.FormLogin.resources
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.FormMain.resources
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.FormNhapHang.resources
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.FormThemSanPham.resources
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.FormXuatHang.resources
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.Properties.Resources.resources
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.SplashScreen1.resources
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.ucData.resources
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.ucHome.resources
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.ucKiemKe.resources
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.ucLichSu.resources
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.ucThongTinsp.resources
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.ucTonKho.resources
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.csproj.GenerateResource.cache
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.exe.licenses
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.csproj.CoreCompileInputs.cache
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.csproj.CopyComplete
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.exe
+F:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.pdb
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.FBaoLoi.resources
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\F_Khay.FKhay.resources
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.FormLogin.resources
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.FormMain.resources
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.FormNhapHang.resources
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.FormThemSanPham.resources
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.FormXuatHang.resources
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.Properties.Resources.resources
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.SplashScreen1.resources
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.ucData.resources
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.ucHome.resources
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.ucKiemKe.resources
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.ucLichSu.resources
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.ucThongTinsp.resources
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.ucTonKho.resources
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.csproj.GenerateResource.cache
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.exe.licenses
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.csproj.CoreCompileInputs.cache
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.exe
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.pdb
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\Warehouse1.exe.config
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\Warehouse1.exe
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\Warehouse1.pdb
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Data.v19.2.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraCharts.v19.2.UI.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraScheduler.v19.2.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\Guna.UI.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\Guna.UI2.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Images.v19.2.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Office.v19.2.Core.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Data.v19.2.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraCharts.v19.2.UI.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraScheduler.v19.2.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Office.v19.2.Core.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.csproj.CopyComplete
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\EPPlus.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\EPPlus.Interfaces.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\EPPlus.System.Drawing.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ExcelDataReader.DataSet.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ExcelDataReader.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\EPPlus.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ExcelDataReader.pdb
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ExcelDataReader.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ExcelDataReader.DataSet.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.CodeParser.v19.2.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.DataAccess.v19.2.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraReports.v19.2.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Xpo.v19.2.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.DataAccess.v19.2.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraReports.v19.2.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Xpo.v19.2.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.MyReport.resources
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.MyReport1.resources
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.FormChiTietVatTu.resources
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.ucNxDieuChinh.resources
+E:\001. DU AN\001.Dự Án Nghiên Cứu\004.Kho2021\Warehouse1\Warehouse1\obj\Debug\Warehouse1.csproj.AssemblyReference.cache
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\Warehouse1.exe.config
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\Warehouse1.exe
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\Warehouse1.pdb
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraCharts.v19.2.UI.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraReports.v19.2.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraScheduler.v19.2.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\EPPlus.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ExcelDataReader.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\Guna.UI.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\Guna.UI2.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraCharts.v19.2.UI.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraScheduler.v19.2.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\EPPlus.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ExcelDataReader.pdb
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ExcelDataReader.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraScheduler.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraScheduler.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\obj\Debug\Warehouse1.FBaoLoi.resources
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\obj\Debug\F_Khay.FKhay.resources
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\obj\Debug\Warehouse1.FormChiTietVatTu.resources
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\obj\Debug\Warehouse1.FormLogin.resources
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\obj\Debug\Warehouse1.FormMain.resources
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\obj\Debug\Warehouse1.FormNhapHang.resources
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\obj\Debug\Warehouse1.FormThemSanPham.resources
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\obj\Debug\Warehouse1.FormXuatHang.resources
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\obj\Debug\Warehouse1.MyReport.resources
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\obj\Debug\Warehouse1.MyReport1.resources
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\obj\Debug\Warehouse1.Properties.Resources.resources
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\obj\Debug\Warehouse1.SplashScreen1.resources
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\obj\Debug\Warehouse1.ucData.resources
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\obj\Debug\Warehouse1.ucHome.resources
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\obj\Debug\Warehouse1.ucKiemKe.resources
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\obj\Debug\Warehouse1.ucLichSu.resources
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\obj\Debug\Warehouse1.ucNxDieuChinh.resources
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\obj\Debug\Warehouse1.ucThongTinsp.resources
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\obj\Debug\Warehouse1.ucTonKho.resources
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\obj\Debug\Warehouse1.csproj.GenerateResource.cache
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\obj\Debug\Warehouse1.exe.licenses
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\obj\Debug\Warehouse1.csproj.CoreCompileInputs.cache
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\obj\Debug\Warehouse1.csproj.CopyComplete
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\obj\Debug\Warehouse1.exe
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\obj\Debug\Warehouse1.pdb
+C:\Users\INTECH-GROUP\Desktop\Warehouse1\Warehouse1\obj\Debug\Warehouse1.csproj.AssemblyReference.cache
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\Warehouse1.exe.config
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\Warehouse1.exe
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\Warehouse1.pdb
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.CodeParser.v19.2.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.Data.v19.2.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.DataAccess.v19.2.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.Images.v19.2.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.Office.v19.2.Core.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraCharts.v19.2.UI.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraReports.v19.2.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraScheduler.v19.2.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\EPPlus.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\EPPlus.Interfaces.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\EPPlus.System.Drawing.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ExcelDataReader.DataSet.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ExcelDataReader.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\Guna.UI.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\Guna.UI2.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.Xpo.v19.2.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.Data.v19.2.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.DataAccess.v19.2.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.Office.v19.2.Core.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraCharts.v19.2.UI.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraReports.v19.2.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraScheduler.v19.2.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraScheduler.v19.2.Core.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\EPPlus.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ExcelDataReader.pdb
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ExcelDataReader.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ExcelDataReader.DataSet.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.Xpo.v19.2.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraScheduler.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\obj\Debug\Warehouse1.csproj.AssemblyReference.cache
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\obj\Debug\Warehouse1.FBaoLoi.resources
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\obj\Debug\F_Khay.FKhay.resources
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\obj\Debug\Warehouse1.FormChiTietVatTu.resources
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\obj\Debug\Warehouse1.FormLogin.resources
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\obj\Debug\Warehouse1.FormMain.resources
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\obj\Debug\Warehouse1.FormNhapHang.resources
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\obj\Debug\Warehouse1.FormThemSanPham.resources
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\obj\Debug\Warehouse1.FormXuatHang.resources
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\obj\Debug\Warehouse1.MyReport.resources
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\obj\Debug\Warehouse1.MyReport1.resources
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\obj\Debug\Warehouse1.Properties.Resources.resources
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\obj\Debug\Warehouse1.SplashScreen1.resources
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\obj\Debug\Warehouse1.ucData.resources
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\obj\Debug\Warehouse1.ucHome.resources
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\obj\Debug\Warehouse1.ucKiemKe.resources
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\obj\Debug\Warehouse1.ucLichSu.resources
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\obj\Debug\Warehouse1.ucNxDieuChinh.resources
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\obj\Debug\Warehouse1.ucThongTinsp.resources
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\obj\Debug\Warehouse1.ucTonKho.resources
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\obj\Debug\Warehouse1.csproj.GenerateResource.cache
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\obj\Debug\Warehouse1.exe.licenses
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\obj\Debug\Warehouse1.csproj.CoreCompileInputs.cache
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\obj\Debug\Warehouse1.csproj.CopyComplete
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\obj\Debug\Warehouse1.exe
+E:\000.Bàn giao\03. Kho\Warehouse1\Warehouse1\obj\Debug\Warehouse1.pdb

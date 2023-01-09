@@ -1,0 +1,275 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using Warehouse1.DAO;
+
+namespace Warehouse1
+{
+    public partial class FormNhapHang : Form
+    {
+        public FormNhapHang()
+        {
+            InitializeComponent();
+        }
+        DataTable dtdsNhapHang = new DataTable();
+        private void FormNhapHang_Load(object sender, EventArgs e)
+        {
+            // TODO: This line of code loads data into the 'khoIntech22DataSet.DSSANPHAM' table. You can move, or remove it, as needed.
+            int check = NhapHangDAO.Instance.deletelistNhap();
+            searchLookUpEdit1.Properties.DataSource = NhapHangDAO.Instance.LoadThongTinSanPham();
+            searchLookUpEdit1.Properties.DisplayMember = "TenSp";
+            dtdsNhapHang = NhapHangDAO.Instance.dboDsNhapHang();
+        }
+        #region event
+        private void panelMinimsize_MouseHover(object sender, EventArgs e)
+        {
+            panel2Minimsize.BackColor = System.Drawing.Color.Silver;
+        }
+
+        private void panelMinimsize_MouseLeave(object sender, EventArgs e)
+        {
+            panel2Minimsize.BackColor = System.Drawing.Color.Transparent;
+        }
+
+        private void panelClose_MouseLeave(object sender, EventArgs e)
+        {
+            panel1Close.BackColor = System.Drawing.Color.Transparent;
+        }
+
+        private void panelClose_MouseHover(object sender, EventArgs e)
+        {
+            panel1Close.BackColor = System.Drawing.Color.Crimson;
+            //MessageBox.Show("1");
+        }
+
+        private void panelMinimsize_Click(object sender, EventArgs e)
+        {
+            WindowState = FormWindowState.Minimized;
+        }
+
+        private void panelClose_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+#endregion
+
+        private void searchLookUpEdit1View_RowCellClick(object sender, DevExpress.XtraGrid.Views.Grid.RowCellClickEventArgs e)
+        {
+            try
+            {
+                
+
+                object[] parameter = new object[10];
+                parameter[0] = dtdsNhapHang.Rows.Count + 1; //stt
+                parameter[1] = searchLookUpEdit1View.GetRowCellValue(e.RowHandle, "MaSp").ToString().Trim(); //MaSp
+                parameter[2] = searchLookUpEdit1View.GetRowCellValue(e.RowHandle, "TenSp").ToString().Trim(); //TenSp
+                string[] makerDVT = NhapHangDAO.Instance.prMaker(parameter[1].ToString(), parameter[2].ToString());
+                parameter[3] = makerDVT[0]; //Maker
+                parameter[4] = makerDVT[1]; //DVT
+                parameter[5] = 0; //sl
+                parameter[6] = ""; //Vị trí
+                parameter[7] = 0; //dung lượng ô
+                parameter[8] = ""; // diễn giải
+                parameter[9] = 0; // check đầy
+                bool checkspNhap = NhapHangDAO.Instance.CheckSpNhap(parameter[1].ToString().Trim());
+                if (checkspNhap)
+                {
+                    NhapHangDAO.Instance.prInsertlistNhap(parameter[1].ToString().Trim());
+                    dtdsNhapHang.Rows.Add(parameter);
+
+                    guna2TextBoxMaSp.Text = parameter[1].ToString();
+                    guna2TextBoxTenSp.Text = parameter[2].ToString();
+                    guna2TextBoxMaker.Text = parameter[3].ToString();
+                    comboBoxEditDonVi.Text = parameter[4].ToString();
+                    numericUpDownSoLuong.Value = Convert.ToInt32(makerDVT[2]);
+
+                    guna2TextBoxDonGia.Text = String.Format("{0:#,###;}", makerDVT[3]);
+                    numericUpDownChieuDai.Value = Convert.ToDecimal(makerDVT[4]);
+                    numericUpDownChieuRong.Value = Convert.ToDecimal(makerDVT[5]);
+                    numericUpDownKhoiLuong.Value = Convert.ToDecimal(makerDVT[6]);
+
+                    gridControlNhapHang.DataSource = null;
+                    gridControlNhapHang.DataSource = dtdsNhapHang;
+                }
+                
+            }
+            catch (Exception line)
+            {
+
+                string er = line.StackTrace.ToString();
+                string[] b = er.Split(' ');
+                string mess = "Err:" + b[b.Length - 1] + " " + line.Message + "";
+                MessageBox.Show(mess, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            
+        }
+
+
+        #region tìm vị trí
+        private void gridViewNhapHang_CellValueChanged(object sender, DevExpress.XtraGrid.Views.Base.CellValueChangedEventArgs e)
+        {
+            //try
+            //{
+                int intRows = e.RowHandle;
+                int soLuongNhap = Convert.ToInt32(e.Value);
+                if (e.Column.Caption == "Số Lượng" && soLuongNhap > 0)
+                {
+                    string maSp = gridViewNhapHang.GetRowCellValue(e.RowHandle, "MaSp").ToString().Trim();
+                    //int stt = Convert.ToInt32(gridViewNhapHang.GetRowCellValue(e.RowHandle, "STT").ToString().Trim());
+                    tongSoLuongsanPham();
+                    if (NhapHangDAO.Instance.CheckSpTonKho(maSp))
+                    {
+                       
+                    }
+                    else
+                    {
+                        nhapHangMoi();
+                    }
+                }
+            //}
+            //catch (Exception line)
+            //{
+
+            //    string er = line.StackTrace.ToString();
+            //    string[] b = er.Split(' ');
+            //    string mess = "Err:" + b[b.Length - 1] + " " + line.Message + "";
+            //    MessageBox.Show(mess, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            //}
+
+        }
+
+        void tongSoLuongsanPham()
+        {
+            DataTable dboListNhap = NhapHangDAO.Instance.dbolistNhap();
+            for (int i = 0; i < dboListNhap.Rows.Count; i++)
+            {
+                if (dboListNhap.Rows.Count >0)
+                {
+                    string msp = dboListNhap.Rows[i][0].ToString().Trim();
+                    Int32 soluongsp = 0;
+                    for (int j = 0; j < gridViewNhapHang.RowCount; j++)
+                    {
+                        if (gridViewNhapHang.RowCount > 0)
+                        {
+                            if (gridViewNhapHang.GetRowCellValue(j, "MaSp").ToString().Trim() == msp)
+                            {
+                                int sl = Convert.ToInt32(gridViewNhapHang.GetRowCellValue(j, "SoLuong"));
+                                soluongsp = soluongsp + sl;
+                            }
+                        }
+                    }
+                    int cc = NhapHangDAO.Instance.updateSoLuonglistNhap(msp, soluongsp);
+                }
+            }
+            
+        }
+
+        void nhapHangMoi() //// them phần xóa vị trí đã dùng. coppy trong txt đã lưu
+        { 
+            dtdsNhapHang.Rows.Clear();
+            DataTable dboListNhap = NhapHangDAO.Instance.dbolistNhap();
+            for (int i = 0; i < dboListNhap.Rows.Count; i++)
+            {
+                if (dboListNhap.Rows.Count>0)
+                {
+                    string maSp = dboListNhap.Rows[i][0].ToString().Trim();
+                    int slNhap =Convert.ToInt32( dboListNhap.Rows[i][1].ToString());
+                    double m3Sp = NhapHangDAO.Instance.ktSanPham(maSp);
+                    DataTable dataTableDsOtrong = NhapHangDAO.Instance.dsOtrong(m3Sp);
+                    int slMaxO = Convert.ToInt32(dataTableDsOtrong.Rows[0][2].ToString());
+
+
+                    if (dtdsNhapHang.Rows.Count > 0)
+                    {
+                        for (int j = 0; j < dtdsNhapHang.Rows.Count; j++)
+                        {
+                            string viTri0 = dtdsNhapHang.Rows[j][6].ToString().Trim();
+                            for (int k = dataTableDsOtrong.Rows.Count - 1; k >= 0; k--)
+                            {
+                                string otrongTrung = dataTableDsOtrong.Rows[k][0].ToString().Trim();
+                                if (viTri0 == otrongTrung)
+                                {
+                                    dataTableDsOtrong.Rows.RemoveAt(k);
+                                }
+                            }
+                        }
+                    }
+
+                    if (dataTableDsOtrong.Rows.Count > 0)
+                    {
+                        object[] TtSanPham = NhapHangDAO.Instance.prTtSanPham(maSp);
+
+                        object[] parameter = new object[10];
+                        parameter[0] = dtdsNhapHang.Rows.Count + 1; //stt
+                        parameter[1] = maSp; //MaSp
+                        parameter[2] = TtSanPham[0]; //TenSp
+                        parameter[3] = TtSanPham[1]; //Maker
+                        parameter[4] = TtSanPham[2]; //DVT
+                        slMaxO = Convert.ToInt32(dataTableDsOtrong.Rows[0][2].ToString());
+
+                        if (slNhap <= slMaxO)
+                        {
+                            parameter[5] = slNhap;
+                            slNhap = 0;
+                        }
+                        else
+                        {
+                            parameter[5] = slMaxO;
+                            slNhap = slNhap - slMaxO;
+                        }
+
+                        parameter[6] = dataTableDsOtrong.Rows[0][0].ToString(); //Vị trí
+                        parameter[7] = slMaxO; //dung lượng ô   s
+                        parameter[8] = ""; // diễn giải
+                        parameter[9] = 0; // check đầy
+                        dtdsNhapHang.Rows.Add(parameter);
+                        dataTableDsOtrong.Rows.RemoveAt(0);
+
+                        while (slNhap > 0)
+                        {                          
+                            slMaxO = Convert.ToInt32(dataTableDsOtrong.Rows[0][2].ToString());
+                            parameter[0] = dtdsNhapHang.Rows.Count + 1;
+                            if (slNhap <= slMaxO)
+                            {
+                                parameter[5] = slNhap;
+                                slNhap = 0;
+                            }
+                            else
+                            {
+                                parameter[5] = slMaxO;
+                                slNhap = slNhap - slMaxO;
+                            }
+
+                            parameter[6] = dataTableDsOtrong.Rows[0][0].ToString(); //Vị trí
+                            parameter[7] = slMaxO; //dung lượng ô   s
+                            dtdsNhapHang.Rows.Add(parameter);
+                            dataTableDsOtrong.Rows.RemoveAt(0);
+                        }
+                    }
+
+                }
+            }
+            gridControlNhapHang.DataSource = null;
+            gridControlNhapHang.DataSource = dtdsNhapHang;
+
+        }
+
+        #endregion
+
+        private void guna2GradientButtonHuy_Click(object sender, EventArgs e)
+        {
+           int check = NhapHangDAO.Instance.deletelistNhap();
+        }
+
+        private void FormNhapHang_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            int check = NhapHangDAO.Instance.deletelistNhap();
+        }
+    }
+}
