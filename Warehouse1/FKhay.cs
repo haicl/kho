@@ -245,7 +245,7 @@ namespace F_Khay
         /* ---------------------------------------------------------------------------------*-
          *          Kiểm tra listSelection (những ô đã chọn) có thể tách ra không           *
          *                                                                                  *
-         *  Điều kiệ tách: Kích thước các ô phải lớn hơn kích thước ô mặc định              *               
+         *  Điều kiện tách: Kích thước các ô phải lớn hơn kích thước ô mặc định              *               
         -*----------------------------------------------------------------------------------*/
         private bool checkSunder()
         {
@@ -1183,6 +1183,16 @@ namespace F_Khay
         }
 
         private void guna2Button6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pnlChuThich_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void pnlTop_Paint(object sender, PaintEventArgs e)
         {
 
         }

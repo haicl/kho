@@ -47,7 +47,6 @@ namespace Warehouse1
             this.tabPageKiemKe = new System.Windows.Forms.TabPage();
             this.ucKiemKe1 = new Warehouse1.ucKiemKe();
             this.tabPageNXDC = new System.Windows.Forms.TabPage();
-            this.ucNxDieuChinh1 = new Warehouse1.ucNxDieuChinh();
             ((System.ComponentModel.ISupportInitialize)(this.panelControl1)).BeginInit();
             this.panelControl1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.panelControlTAB)).BeginInit();
@@ -58,7 +57,6 @@ namespace Warehouse1
             this.tabPageTonKho.SuspendLayout();
             this.tabPageLichSu.SuspendLayout();
             this.tabPageKiemKe.SuspendLayout();
-            this.tabPageNXDC.SuspendLayout();
             this.SuspendLayout();
             // 
             // panelControl1
@@ -279,13 +277,14 @@ namespace Warehouse1
             // tabPageTTSP
             // 
             this.tabPageTTSP.Controls.Add(this.ucThongTinsp1);
-            this.tabPageTTSP.Location = new System.Drawing.Point(24, 4);
+            this.tabPageTTSP.Location = new System.Drawing.Point(26, 4);
             this.tabPageTTSP.Name = "tabPageTTSP";
             this.tabPageTTSP.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPageTTSP.Size = new System.Drawing.Size(1225, 647);
+            this.tabPageTTSP.Size = new System.Drawing.Size(1223, 647);
             this.tabPageTTSP.TabIndex = 0;
             this.tabPageTTSP.Text = "Thông tin";
             this.tabPageTTSP.UseVisualStyleBackColor = true;
+            this.tabPageTTSP.Click += new System.EventHandler(this.tabPageTTSP_Click);
             // 
             // ucThongTinsp1
             // 
@@ -300,10 +299,10 @@ namespace Warehouse1
             // tabPageTonKho
             // 
             this.tabPageTonKho.Controls.Add(this.ucTonKho1);
-            this.tabPageTonKho.Location = new System.Drawing.Point(24, 4);
+            this.tabPageTonKho.Location = new System.Drawing.Point(26, 4);
             this.tabPageTonKho.Name = "tabPageTonKho";
             this.tabPageTonKho.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPageTonKho.Size = new System.Drawing.Size(1225, 647);
+            this.tabPageTonKho.Size = new System.Drawing.Size(1223, 647);
             this.tabPageTonKho.TabIndex = 1;
             this.tabPageTonKho.Text = "Tồn kho";
             this.tabPageTonKho.UseVisualStyleBackColor = true;
@@ -322,10 +321,10 @@ namespace Warehouse1
             // tabPageLichSu
             // 
             this.tabPageLichSu.Controls.Add(this.ucLichSu1);
-            this.tabPageLichSu.Location = new System.Drawing.Point(24, 4);
+            this.tabPageLichSu.Location = new System.Drawing.Point(26, 4);
             this.tabPageLichSu.Name = "tabPageLichSu";
             this.tabPageLichSu.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPageLichSu.Size = new System.Drawing.Size(1225, 647);
+            this.tabPageLichSu.Size = new System.Drawing.Size(1223, 647);
             this.tabPageLichSu.TabIndex = 2;
             this.tabPageLichSu.Text = "Lịch sử";
             this.tabPageLichSu.UseVisualStyleBackColor = true;
@@ -343,10 +342,10 @@ namespace Warehouse1
             // tabPageKiemKe
             // 
             this.tabPageKiemKe.Controls.Add(this.ucKiemKe1);
-            this.tabPageKiemKe.Location = new System.Drawing.Point(24, 4);
+            this.tabPageKiemKe.Location = new System.Drawing.Point(26, 4);
             this.tabPageKiemKe.Name = "tabPageKiemKe";
             this.tabPageKiemKe.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPageKiemKe.Size = new System.Drawing.Size(1225, 647);
+            this.tabPageKiemKe.Size = new System.Drawing.Size(1223, 647);
             this.tabPageKiemKe.TabIndex = 3;
             this.tabPageKiemKe.Text = "Kiểm kê";
             this.tabPageKiemKe.UseVisualStyleBackColor = true;
@@ -362,25 +361,16 @@ namespace Warehouse1
             // 
             // tabPageNXDC
             // 
-            this.tabPageNXDC.Controls.Add(this.ucNxDieuChinh1);
-            this.tabPageNXDC.Location = new System.Drawing.Point(24, 4);
+            this.tabPageNXDC.Location = new System.Drawing.Point(26, 4);
             this.tabPageNXDC.Name = "tabPageNXDC";
-            this.tabPageNXDC.Size = new System.Drawing.Size(1225, 647);
+            this.tabPageNXDC.Size = new System.Drawing.Size(1223, 647);
             this.tabPageNXDC.TabIndex = 4;
             this.tabPageNXDC.Text = "Nhập xuất điều chỉnh";
             this.tabPageNXDC.UseVisualStyleBackColor = true;
             // 
-            // ucNxDieuChinh1
-            // 
-            this.ucNxDieuChinh1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.ucNxDieuChinh1.Location = new System.Drawing.Point(0, 0);
-            this.ucNxDieuChinh1.Name = "ucNxDieuChinh1";
-            this.ucNxDieuChinh1.Size = new System.Drawing.Size(1225, 647);
-            this.ucNxDieuChinh1.TabIndex = 0;
-            // 
             // ucData
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.panelControl1);
             this.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold);
@@ -399,7 +389,6 @@ namespace Warehouse1
             this.tabPageTonKho.ResumeLayout(false);
             this.tabPageLichSu.ResumeLayout(false);
             this.tabPageKiemKe.ResumeLayout(false);
-            this.tabPageNXDC.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }

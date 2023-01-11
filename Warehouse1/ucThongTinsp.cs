@@ -162,6 +162,11 @@ namespace Warehouse1
 
         }
 
+        private void gridControl1_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
         /////////////////////////////////////////////////////////////////////////
 
     }

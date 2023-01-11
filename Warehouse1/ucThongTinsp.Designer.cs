@@ -86,6 +86,7 @@ namespace Warehouse1
             this.gridControl1.TabIndex = 11;
             this.gridControl1.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.advBandedGridView1});
+            this.gridControl1.Click += new System.EventHandler(this.gridControl1_Click_1);
             // 
             // advBandedGridView1
             // 
@@ -551,7 +552,7 @@ namespace Warehouse1
             // 
             // ucThongTinsp
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.panelControl1);
             this.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold);

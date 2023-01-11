@@ -175,5 +175,10 @@ namespace Warehouse1
             
             
         }
+
+        private void panelControlLogin_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

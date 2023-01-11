@@ -10,8 +10,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Warehouse1.DAO;
-using ActUtlTypeLib;
-
 
 namespace Warehouse1
 {
@@ -55,46 +53,47 @@ namespace Warehouse1
 
         }
 
-
         private void ButtonChay_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void ButtonChay_MouseUp(object sender, MouseEventArgs e)
+        public void ButtonChay_MouseUp(object sender, MouseEventArgs e)
         {
-            chayplc_uchome();
-            //ClassPlc.Plc.SetDevice("M201", 0);
+            ClassPlc startplc = new ClassPlc();
+            startplc.chayplc_uchome();
         }
 
         private void ButtonChay_MouseDown(object sender, MouseEventArgs e)
         {
-            ClassPlc.Plc.GetDevice("M8000", out int M8);
-            if (M8 == 0)
+            ClassPlc check_conn_plc = new ClassPlc();
+            if (check_conn_plc.check_connect_plc() == false)
             {
                 XtraMessageBox.Show("Chưa kết nối PLC! ");
             }
             else
             {
-                ClassPlc.Plc.SetDevice("M201", 1);
+                check_conn_plc.chayplc_uchome();
             }
+
         }
 
         private void buttonDung_MouseUp(object sender, MouseEventArgs e)
         {
-            ClassPlc.Plc.SetDevice("M202", 0);
+            ClassPlc stopplc = new ClassPlc();
+            stopplc.dungplc_uchome();
         }
 
         private void buttonDung_MouseDown(object sender, MouseEventArgs e)
         {
-            ClassPlc.Plc.GetDevice("M8000", out int M8);
-            if (M8 == 0)
+            ClassPlc check_conn_plc = new ClassPlc();
+            if (check_conn_plc.check_connect_plc() == false)
             {
                 XtraMessageBox.Show("Chưa kết nối PLC! ");
             }
             else
             {
-                ClassPlc.Plc.SetDevice("M202", 1);
+                check_conn_plc.dungplc_uchome();
             }
         }
 
@@ -126,15 +125,14 @@ namespace Warehouse1
 
         private void buttonXetGoc_Click(object sender, EventArgs e)
         {
-
-            ClassPlc.Plc.GetDevice("M8000", out int M8);
-            if (M8 == 0)
+            ClassPlc check_conn_plc = new ClassPlc();
+            if (check_conn_plc.check_connect_plc() == false)
             {
                 XtraMessageBox.Show("Chưa kết nối PLC! ");
             }
             else
             {
-                ClassPlc.Plc.SetDevice("M2800", 1);
+                check_conn_plc.plc_vegoc_uchome();
                 timerXetGoc.Start();
             }
             //Application.Restart();
@@ -151,8 +149,8 @@ namespace Warehouse1
 
         private void buttonNhapHang_Click(object sender, EventArgs e)
         {
-            ClassPlc.Plc.GetDevice("D296", out int value); // thêm điều kiện admin
-            if (value == 0 && radioAdmin.Checked==false)
+            ClassPlc checkdk_admin = new ClassPlc();
+            if (checkdk_admin.check_dk_admin() == true && radioAdmin.Checked==false)
             {
                 DataTable dtdsNhapHang = NhapHangDAO.Instance.dboDsNhapHang();
                 DataTable dsXuatHang = XuatHangDAO.Instance.DsXuatHang();
@@ -166,11 +164,7 @@ namespace Warehouse1
                 }
                 else
                 {
-                    ClassPlc.Plc.SetDevice("M2025", 0);
-                    ClassPlc.Plc.SetDevice("M2024", 0);
-                    ClassPlc.Plc.SetDevice("M2480", 0);
-                    ClassPlc.Plc.SetDevice("M2481", 0);
-                    ClassPlc.Plc.SetDevice("M2378", 0);
+                    checkdk_admin.hoanthanh_transfer();
                     FormNhapHang formNhapHang = new FormNhapHang();
                     formNhapHang.ShowDialog();
                     DataTable tableDsNhapHang = NhapHangDAO.Instance.dboDsNhapHang();
@@ -220,24 +214,12 @@ namespace Warehouse1
 
         private void layKhay(string TangDi, string TangDen)
         {
+            ClassPlc check_loaitang = new ClassPlc();
             // tầng đi
             string loai = TangDi.Remove(1);                  // loại tầng trước hoặc sau
             int num = Convert.ToInt32(TangDi.Substring(1));  // số tầng
 
-            //
-            if (0 < num && num <= 27)
-            {
-                if (loai == "R")
-                {
-                    ClassPlc.Plc.SetDevice("D1900", 82);
-                }
-                else
-                {
-                    ClassPlc.Plc.SetDevice("D1900", 70);
-                }
-
-                ClassPlc.Plc.SetDevice("D1901", num);
-            }
+            check_loaitang.check_loaitangdi_uchome(loai,num);
 
             if (TangDi != "F27")
             {
@@ -249,29 +231,10 @@ namespace Warehouse1
             string loaiT = TangDen.Remove(1);                  // loại tầng trước hoặc sau
             int numT = Convert.ToInt32(TangDen.Substring(1)); // số tầng
 
-            if (0 < numT && numT <= 27)
-            {
-                if (loaiT == "R")
-                {
-                    ClassPlc.Plc.SetDevice("D1910", 82);
-                }
-                else
-                {
-                    ClassPlc.Plc.SetDevice("D1910", 70);
-                }
-
-                ClassPlc.Plc.SetDevice("D1911", numT);
-            }
-
+            check_loaitang.check_loaitangden_uchome(loaiT,numT);
             timerDoChieuCao.Start();
 
-            ClassPlc.Plc.GetDevice("D1900", out int d1900);
-            ClassPlc.Plc.GetDevice("D1901", out int d1901);
-            ClassPlc.Plc.GetDevice("D1910", out int d1910);
-            ClassPlc.Plc.GetDevice("D1911", out int d1911);
-            ClassPlc.Plc.GetDevice("D1850", out int d1850);
-
-            if (d1900 * d1901 * d1910 * d1911 * d1850 == 0 && TangDi != "F27" )
+            if (check_loaitang.check_conn_loaitang() == false && TangDi != "F27" )
             {
                 MessageBox.Show("Máy tính không truyền được dữ liệu cho hệ thống kho, yêu cầu kiểm tra lại đường truyền", "Cảnh báo: ", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
@@ -281,8 +244,7 @@ namespace Warehouse1
             }
             else
             {
-                ClassPlc.Plc.SetDevice("M2022", 1);  // bit báo để bắt đầu exchage
-                //NhapXuatDAO.Instance.prInsertTbBackup(TangDi, TangDen);
+                check_loaitang.exchange();
             }
             //NhapXuatDAO.Instance.prInsertTbBackup(TangDi, TangDen);
             ClassPlc.Plc.SetDevice("M2390", 0);
@@ -311,8 +273,8 @@ namespace Warehouse1
 
         private void buttonXuatHang_Click(object sender, EventArgs e)
         {
-            ClassPlc.Plc.GetDevice("D296", out int value); // thêm điều kiện admin
-            if (value == 0 && radioAdmin.Checked == false)
+            ClassPlc check_dk = new ClassPlc();
+            if (check_dk.check_dk_admin() == false && radioAdmin.Checked == false)
             {
 
                 DataTable dtdsNhapHang = NhapHangDAO.Instance.dboDsNhapHang();
@@ -327,14 +289,7 @@ namespace Warehouse1
                 }
                 else
                 {
-                    ClassPlc.Plc.SetDevice("M2025", 0);
-                    ClassPlc.Plc.SetDevice("M2024", 0);
-                    ClassPlc.Plc.SetDevice("M2480", 0);
-                    ClassPlc.Plc.SetDevice("M2481", 0);
-                    ClassPlc.Plc.SetDevice("M2378", 0);  // bít báo nahpj xong
-                                                         //ClassPlc.Plc.SetDevice("M2024", 0);  // bít báo tray ra cửa
-
-                    //ClassPlc.Plc.SetDevice("M2025", 0);
+                    check_dk.hoanthanh_transfer();
                     FormXuatHang formXuatHang = new FormXuatHang();
                     formXuatHang.ShowDialog();
                     DataTable tableDsXuatHang = XuatHangDAO.Instance.DsXuatHang();
@@ -354,9 +309,9 @@ namespace Warehouse1
 
         private void XuatHang()
         {
-            ClassPlc.Plc.SetDevice("M2024", 0);  // bít báo tray ra cửa
-            ClassPlc.Plc.SetDevice("M2378", 0);  // bít báo nahpj xong
-            ClassPlc.Plc.SetDevice("M2025", 0);
+            ClassPlc check_khay = new ClassPlc();
+            check_khay.hoanthanh_transfer();
+
             List<string> vsTangXuat = NhapXuatDAO.Instance.listDSTangXuatHang();
             if (vsTangXuat.Count > 0)
             {
@@ -392,6 +347,7 @@ namespace Warehouse1
 
         private void timerCua_Tick(object sender, EventArgs e)
         {
+            ClassPlc check_khay = new ClassPlc();
             int M2024 = 1;
             if (radioAuto.Checked)
             {
@@ -401,9 +357,7 @@ namespace Warehouse1
             if (M2024 == 1)
             {
                 timerCua.Stop();
-                ClassPlc.Plc.SetDevice("M2024", 0);  // bít báo tray ra cửa
-                ClassPlc.Plc.SetDevice("M2378", 0);  // bít báo nahpj xong
-                ClassPlc.Plc.SetDevice("M2025", 0);  // bit báo thực hiện xong F_T
+                check_khay.hoanthanh_transfer();
 
                 FKhay fkhay = new FKhay();
                 string task = DAO_Khay.Instance.selectTASK();
@@ -437,6 +391,7 @@ namespace Warehouse1
 
         private void timerHoanThanh_Tick(object sender, EventArgs e)
         {
+            ClassPlc check_khay_ra_cua = new ClassPlc();
             int M2025 =1; //  bít báo thực hiện xong quá trình F_T
             if (radioAuto.Checked)
             {
@@ -455,8 +410,7 @@ namespace Warehouse1
                     if (radioAuto.Checked)
                     {
                         NhapXuatDAO.Instance.prUpdateBackUp(sttBackup);
-                    }
-                    
+                    }        
                 }
                 string task = DAO_Khay.Instance.selectTASK();
                 if (task == "Nhập Hàng")
@@ -467,9 +421,7 @@ namespace Warehouse1
                 {
                     XuatHang();
                 }
-
-                ClassPlc.Plc.SetDevice("M2025", 0);
-                ClassPlc.Plc.SetDevice("M2024", 0);
+                check_khay_ra_cua.hoanthanh_transfer();
             }
         }
 
@@ -513,9 +465,8 @@ namespace Warehouse1
 
         private void timerDoChieuCao_Tick(object sender, EventArgs e)
         {
-            ClassPlc.Plc.GetDevice("D1310", out int D1310);
-            //plc.GetDevice("D1300", out D1300);
-            if (D1310 == 1)
+            ClassPlc check_loaitang = new ClassPlc();
+            if (check_loaitang.check_chieucao_uchome() == false)
             {
                 timerDoChieuCao.Stop();
                 string tangTraKhay = NhapXuatDAO.Instance.tangTraKhay();
@@ -524,19 +475,7 @@ namespace Warehouse1
                 int num = Convert.ToInt32(tangTraKhay.Substring(1));  // số tầng
 
                 //
-                if (0 < num && num <= 27)
-                {
-                    if (loai == "R")
-                    {
-                        ClassPlc.Plc.SetDevice("D1910", 82);
-                    }
-                    else
-                    {
-                        ClassPlc.Plc.SetDevice("D1910", 70);
-                    }
-
-                    ClassPlc.Plc.SetDevice("D1911", num);
-                }
+                check_loaitang.check_loaitangden_uchome(loai,num);
                 ClassPlc.Plc.SetDevice("D1850", 1); // chiều cao không gian
                 ClassPlc.Plc.SetDevice("D1310", 0);
                 // ClassPlc.Plc.SetDevice("M2022", 1);  // bit báo để bắt đầu exchage
@@ -575,8 +514,8 @@ namespace Warehouse1
                     DialogResult dr = MessageBox.Show("Chức năng rày rất nguy hiểm, cần kiểm tra kỹ trước khi tiếp tục.", "Cảnh Báo", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
                     if (dr == DialogResult.Yes)
                     {
-                        ClassPlc.Plc.GetDevice("M8000", out int M8);
-                        if (M8 == 0)
+                        ClassPlc check_conn = new ClassPlc();
+                        if (check_conn.check_connect_plc() == false)
                         {
                             XtraMessageBox.Show("Chưa kết nối PLC! ");
                         }
@@ -969,8 +908,6 @@ namespace Warehouse1
             //ClassPlc.Plc.Close();
             //ClassPlc.Plc.Open();
         }
-
-
 
         private void button2_Click(object sender, EventArgs e)
         {

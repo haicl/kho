@@ -260,7 +260,7 @@
     <value>159, 17</value>
   </metadata>
   <metadata name="timerHoanThanh.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>246, 17</value>
+    <value>240, 17</value>
   </metadata>
   <metadata name="timerXetGoc.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>389, 17</value>

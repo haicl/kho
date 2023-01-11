@@ -87,8 +87,9 @@ namespace Warehouse1
             this.panelControl2.LookAndFeel.SkinMaskColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(233)))), ((int)(((byte)(236)))), ((int)(((byte)(240)))));
             this.panelControl2.LookAndFeel.Style = DevExpress.LookAndFeel.LookAndFeelStyle.Style3D;
             this.panelControl2.LookAndFeel.UseDefaultLookAndFeel = false;
+            this.panelControl2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panelControl2.Name = "panelControl2";
-            this.panelControl2.Size = new System.Drawing.Size(1330, 52);
+            this.panelControl2.Size = new System.Drawing.Size(1773, 64);
             this.panelControl2.TabIndex = 16;
             // 
             // guna2PanelButton
@@ -99,10 +100,11 @@ namespace Warehouse1
             this.guna2PanelButton.BorderThickness = 1;
             this.guna2PanelButton.Controls.Add(this.buttonExcel);
             this.guna2PanelButton.Font = new System.Drawing.Font("Segoe UI Semibold", 11F, System.Drawing.FontStyle.Bold);
-            this.guna2PanelButton.Location = new System.Drawing.Point(20, 6);
+            this.guna2PanelButton.Location = new System.Drawing.Point(27, 7);
+            this.guna2PanelButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.guna2PanelButton.Name = "guna2PanelButton";
             this.guna2PanelButton.ShadowDecoration.Parent = this.guna2PanelButton;
-            this.guna2PanelButton.Size = new System.Drawing.Size(154, 39);
+            this.guna2PanelButton.Size = new System.Drawing.Size(205, 48);
             this.guna2PanelButton.TabIndex = 14;
             // 
             // buttonExcel
@@ -114,10 +116,11 @@ namespace Warehouse1
             this.buttonExcel.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
             this.buttonExcel.Image = ((System.Drawing.Image)(resources.GetObject("buttonExcel.Image")));
             this.buttonExcel.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.buttonExcel.Location = new System.Drawing.Point(5, 6);
+            this.buttonExcel.Location = new System.Drawing.Point(7, 7);
+            this.buttonExcel.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.buttonExcel.Name = "buttonExcel";
-            this.buttonExcel.Padding = new System.Windows.Forms.Padding(3, 0, 0, 0);
-            this.buttonExcel.Size = new System.Drawing.Size(144, 26);
+            this.buttonExcel.Padding = new System.Windows.Forms.Padding(4, 0, 0, 0);
+            this.buttonExcel.Size = new System.Drawing.Size(192, 32);
             this.buttonExcel.TabIndex = 10;
             this.buttonExcel.Text = "Xuất file Excel";
             this.buttonExcel.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -133,13 +136,14 @@ namespace Warehouse1
             this.panelControl1.Controls.Add(this.label2);
             this.panelControl1.Controls.Add(this.label8);
             this.panelControl1.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panelControl1.Location = new System.Drawing.Point(0, 52);
+            this.panelControl1.Location = new System.Drawing.Point(0, 64);
             this.panelControl1.LookAndFeel.SkinMaskColor = System.Drawing.Color.FromArgb(((int)(((byte)(218)))), ((int)(((byte)(223)))), ((int)(((byte)(231)))));
             this.panelControl1.LookAndFeel.SkinMaskColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(233)))), ((int)(((byte)(236)))), ((int)(((byte)(240)))));
             this.panelControl1.LookAndFeel.Style = DevExpress.LookAndFeel.LookAndFeelStyle.Style3D;
             this.panelControl1.LookAndFeel.UseDefaultLookAndFeel = false;
+            this.panelControl1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panelControl1.Name = "panelControl1";
-            this.panelControl1.Size = new System.Drawing.Size(1330, 64);
+            this.panelControl1.Size = new System.Drawing.Size(1773, 79);
             this.panelControl1.TabIndex = 18;
             // 
             // label2
@@ -148,9 +152,10 @@ namespace Warehouse1
             this.label2.Dock = System.Windows.Forms.DockStyle.Top;
             this.label2.Font = new System.Drawing.Font("Segoe UI", 11.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(64)))), ((int)(((byte)(89)))));
-            this.label2.Location = new System.Drawing.Point(3, 33);
+            this.label2.Location = new System.Drawing.Point(3, 40);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(1324, 20);
+            this.label2.Size = new System.Drawing.Size(1767, 25);
             this.label2.TabIndex = 3;
             this.label2.Text = "Từ 17/05/2022 - 17/05/2022";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -162,8 +167,9 @@ namespace Warehouse1
             this.label8.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(64)))), ((int)(((byte)(89)))));
             this.label8.Location = new System.Drawing.Point(3, 3);
+            this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(1324, 30);
+            this.label8.Size = new System.Drawing.Size(1767, 37);
             this.label8.TabIndex = 2;
             this.label8.Text = "SỔ CHI TIẾT VẬT TƯ HÀNG HÓA";
             this.label8.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -171,15 +177,18 @@ namespace Warehouse1
             // gridControl1
             // 
             this.gridControl1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.gridControl1.Location = new System.Drawing.Point(0, 116);
+            this.gridControl1.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.gridControl1.Location = new System.Drawing.Point(0, 143);
             this.gridControl1.LookAndFeel.SkinName = "VS2010";
             this.gridControl1.LookAndFeel.UseDefaultLookAndFeel = false;
             this.gridControl1.MainView = this.advBandedGridView1;
+            this.gridControl1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.gridControl1.Name = "gridControl1";
-            this.gridControl1.Size = new System.Drawing.Size(1330, 540);
+            this.gridControl1.Size = new System.Drawing.Size(1773, 664);
             this.gridControl1.TabIndex = 19;
             this.gridControl1.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.advBandedGridView1});
+            this.gridControl1.Click += new System.EventHandler(this.gridControl1_Click);
             // 
             // advBandedGridView1
             // 
@@ -260,7 +269,7 @@ namespace Warehouse1
             this.gridBand10,
             this.gridBand13,
             this.gridBand17});
-            this.advBandedGridView1.ColumnPanelRowHeight = 40;
+            this.advBandedGridView1.ColumnPanelRowHeight = 49;
             this.advBandedGridView1.Columns.AddRange(new DevExpress.XtraGrid.Views.BandedGrid.BandedGridColumn[] {
             this.gridColumn3,
             this.gridColumn1,
@@ -274,6 +283,7 @@ namespace Warehouse1
             this.bandedGridColumn4,
             this.bandedGridColumn5,
             this.bandedGridColumn7});
+            this.advBandedGridView1.DetailHeight = 431;
             this.advBandedGridView1.GridControl = this.gridControl1;
             this.advBandedGridView1.GroupPanelText = "Kéo một tiêu đề cột vào đây để nhóm theo cột";
             this.advBandedGridView1.Name = "advBandedGridView1";
@@ -304,9 +314,10 @@ namespace Warehouse1
             this.gridBand8.AppearanceHeader.TextOptions.VAlignment = DevExpress.Utils.VertAlignment.Center;
             this.gridBand8.Caption = "Ngày";
             this.gridBand8.Columns.Add(this.gridColumn3);
+            this.gridBand8.MinWidth = 13;
             this.gridBand8.Name = "gridBand8";
             this.gridBand8.VisibleIndex = 0;
-            this.gridBand8.Width = 214;
+            this.gridBand8.Width = 285;
             // 
             // gridColumn3
             // 
@@ -327,13 +338,14 @@ namespace Warehouse1
             this.gridColumn3.DisplayFormat.FormatString = "dd-MM-yyyy HH:mm:ss";
             this.gridColumn3.DisplayFormat.FormatType = DevExpress.Utils.FormatType.DateTime;
             this.gridColumn3.FieldName = "Ngay";
+            this.gridColumn3.MinWidth = 27;
             this.gridColumn3.Name = "gridColumn3";
             this.gridColumn3.OptionsColumn.AllowEdit = false;
             this.gridColumn3.OptionsColumn.AllowFocus = false;
             this.gridColumn3.OptionsColumn.AllowShowHide = false;
             this.gridColumn3.OptionsColumn.ReadOnly = true;
             this.gridColumn3.Visible = true;
-            this.gridColumn3.Width = 214;
+            this.gridColumn3.Width = 285;
             // 
             // gridBand1
             // 
@@ -344,6 +356,7 @@ namespace Warehouse1
             this.gridBand1.AppearanceHeader.TextOptions.VAlignment = DevExpress.Utils.VertAlignment.Center;
             this.gridBand1.Caption = "Mã hàng";
             this.gridBand1.Columns.Add(this.gridColumn1);
+            this.gridBand1.MinWidth = 13;
             this.gridBand1.Name = "gridBand1";
             this.gridBand1.OptionsBand.AllowHotTrack = false;
             this.gridBand1.OptionsBand.AllowMove = false;
@@ -351,7 +364,7 @@ namespace Warehouse1
             this.gridBand1.OptionsBand.FixedWidth = true;
             this.gridBand1.RowCount = 2;
             this.gridBand1.VisibleIndex = 1;
-            this.gridBand1.Width = 225;
+            this.gridBand1.Width = 300;
             // 
             // gridColumn1
             // 
@@ -370,13 +383,14 @@ namespace Warehouse1
             this.gridColumn1.AppearanceHeader.TextOptions.VAlignment = DevExpress.Utils.VertAlignment.Center;
             this.gridColumn1.Caption = "Mã Sản Phẩm";
             this.gridColumn1.FieldName = "MaSp";
+            this.gridColumn1.MinWidth = 27;
             this.gridColumn1.Name = "gridColumn1";
             this.gridColumn1.OptionsColumn.AllowEdit = false;
             this.gridColumn1.OptionsColumn.AllowFocus = false;
             this.gridColumn1.OptionsColumn.AllowShowHide = false;
             this.gridColumn1.OptionsColumn.ReadOnly = true;
             this.gridColumn1.Visible = true;
-            this.gridColumn1.Width = 225;
+            this.gridColumn1.Width = 300;
             // 
             // gridBand5
             // 
@@ -387,10 +401,11 @@ namespace Warehouse1
             this.gridBand5.AppearanceHeader.TextOptions.VAlignment = DevExpress.Utils.VertAlignment.Center;
             this.gridBand5.Caption = "Tên hàng";
             this.gridBand5.Columns.Add(this.gridColumn2);
+            this.gridBand5.MinWidth = 13;
             this.gridBand5.Name = "gridBand5";
             this.gridBand5.RowCount = 2;
             this.gridBand5.VisibleIndex = 2;
-            this.gridBand5.Width = 202;
+            this.gridBand5.Width = 269;
             // 
             // gridColumn2
             // 
@@ -409,13 +424,14 @@ namespace Warehouse1
             this.gridColumn2.AppearanceHeader.TextOptions.VAlignment = DevExpress.Utils.VertAlignment.Center;
             this.gridColumn2.Caption = "Tên Sản Phẩm";
             this.gridColumn2.FieldName = "TenSp";
+            this.gridColumn2.MinWidth = 27;
             this.gridColumn2.Name = "gridColumn2";
             this.gridColumn2.OptionsColumn.AllowEdit = false;
             this.gridColumn2.OptionsColumn.AllowFocus = false;
             this.gridColumn2.OptionsColumn.AllowShowHide = false;
             this.gridColumn2.OptionsColumn.ReadOnly = true;
             this.gridColumn2.Visible = true;
-            this.gridColumn2.Width = 202;
+            this.gridColumn2.Width = 269;
             // 
             // gridBand3
             // 
@@ -426,9 +442,10 @@ namespace Warehouse1
             this.gridBand3.AppearanceHeader.TextOptions.VAlignment = DevExpress.Utils.VertAlignment.Center;
             this.gridBand3.Caption = "Diễn giải";
             this.gridBand3.Columns.Add(this.bandedGridColumn7);
+            this.gridBand3.MinWidth = 13;
             this.gridBand3.Name = "gridBand3";
             this.gridBand3.VisibleIndex = 3;
-            this.gridBand3.Width = 187;
+            this.gridBand3.Width = 249;
             // 
             // bandedGridColumn7
             // 
@@ -443,12 +460,13 @@ namespace Warehouse1
             this.bandedGridColumn7.AppearanceHeader.TextOptions.VAlignment = DevExpress.Utils.VertAlignment.Center;
             this.bandedGridColumn7.Caption = "Diễn giải";
             this.bandedGridColumn7.FieldName = "DienGiai";
+            this.bandedGridColumn7.MinWidth = 27;
             this.bandedGridColumn7.Name = "bandedGridColumn7";
             this.bandedGridColumn7.OptionsColumn.AllowEdit = false;
             this.bandedGridColumn7.OptionsColumn.AllowFocus = false;
             this.bandedGridColumn7.OptionsColumn.ReadOnly = true;
             this.bandedGridColumn7.Visible = true;
-            this.bandedGridColumn7.Width = 187;
+            this.bandedGridColumn7.Width = 249;
             // 
             // gridBand6
             // 
@@ -459,10 +477,11 @@ namespace Warehouse1
             this.gridBand6.AppearanceHeader.TextOptions.VAlignment = DevExpress.Utils.VertAlignment.Center;
             this.gridBand6.Caption = "ĐVT";
             this.gridBand6.Columns.Add(this.gridColumn4);
+            this.gridBand6.MinWidth = 13;
             this.gridBand6.Name = "gridBand6";
             this.gridBand6.RowCount = 2;
             this.gridBand6.VisibleIndex = 4;
-            this.gridBand6.Width = 71;
+            this.gridBand6.Width = 95;
             // 
             // gridColumn4
             // 
@@ -481,13 +500,14 @@ namespace Warehouse1
             this.gridColumn4.AppearanceHeader.TextOptions.VAlignment = DevExpress.Utils.VertAlignment.Center;
             this.gridColumn4.Caption = "Đơn Vị Tính";
             this.gridColumn4.FieldName = "DVT";
+            this.gridColumn4.MinWidth = 27;
             this.gridColumn4.Name = "gridColumn4";
             this.gridColumn4.OptionsColumn.AllowEdit = false;
             this.gridColumn4.OptionsColumn.AllowFocus = false;
             this.gridColumn4.OptionsColumn.AllowShowHide = false;
             this.gridColumn4.OptionsColumn.ReadOnly = true;
             this.gridColumn4.Visible = true;
-            this.gridColumn4.Width = 71;
+            this.gridColumn4.Width = 95;
             // 
             // gridBand2
             // 
@@ -498,9 +518,10 @@ namespace Warehouse1
             this.gridBand2.AppearanceHeader.TextOptions.VAlignment = DevExpress.Utils.VertAlignment.Center;
             this.gridBand2.Caption = "Đơn giá";
             this.gridBand2.Columns.Add(this.bandedGridColumn6);
+            this.gridBand2.MinWidth = 13;
             this.gridBand2.Name = "gridBand2";
             this.gridBand2.VisibleIndex = 5;
-            this.gridBand2.Width = 72;
+            this.gridBand2.Width = 96;
             // 
             // bandedGridColumn6
             // 
@@ -515,12 +536,13 @@ namespace Warehouse1
             this.bandedGridColumn6.AppearanceHeader.TextOptions.VAlignment = DevExpress.Utils.VertAlignment.Center;
             this.bandedGridColumn6.Caption = "Đơn giá";
             this.bandedGridColumn6.FieldName = "DonGia";
+            this.bandedGridColumn6.MinWidth = 27;
             this.bandedGridColumn6.Name = "bandedGridColumn6";
             this.bandedGridColumn6.OptionsColumn.AllowEdit = false;
             this.bandedGridColumn6.OptionsColumn.AllowFocus = false;
             this.bandedGridColumn6.OptionsColumn.ReadOnly = true;
             this.bandedGridColumn6.Visible = true;
-            this.bandedGridColumn6.Width = 72;
+            this.bandedGridColumn6.Width = 96;
             // 
             // gridBand10
             // 
@@ -533,9 +555,10 @@ namespace Warehouse1
             this.gridBand10.Children.AddRange(new DevExpress.XtraGrid.Views.BandedGrid.GridBand[] {
             this.gridBand11,
             this.gridBand12});
+            this.gridBand10.MinWidth = 13;
             this.gridBand10.Name = "gridBand10";
             this.gridBand10.VisibleIndex = 6;
-            this.gridBand10.Width = 253;
+            this.gridBand10.Width = 338;
             // 
             // gridBand11
             // 
@@ -548,7 +571,7 @@ namespace Warehouse1
             this.gridBand11.Columns.Add(this.gridColumn6);
             this.gridBand11.Name = "gridBand11";
             this.gridBand11.VisibleIndex = 0;
-            this.gridBand11.Width = 131;
+            this.gridBand11.Width = 175;
             // 
             // gridColumn6
             // 
@@ -569,6 +592,7 @@ namespace Warehouse1
             this.gridColumn6.DisplayFormat.FormatString = "n0";
             this.gridColumn6.DisplayFormat.FormatType = DevExpress.Utils.FormatType.Numeric;
             this.gridColumn6.FieldName = "slNhapKho";
+            this.gridColumn6.MinWidth = 27;
             this.gridColumn6.Name = "gridColumn6";
             this.gridColumn6.OptionsColumn.AllowEdit = false;
             this.gridColumn6.OptionsColumn.AllowFocus = false;
@@ -577,7 +601,7 @@ namespace Warehouse1
             this.gridColumn6.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
             new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Sum, "slNhapKho", "{0:n0}")});
             this.gridColumn6.Visible = true;
-            this.gridColumn6.Width = 131;
+            this.gridColumn6.Width = 175;
             // 
             // gridBand12
             // 
@@ -590,7 +614,7 @@ namespace Warehouse1
             this.gridBand12.Columns.Add(this.bandedGridColumn2);
             this.gridBand12.Name = "gridBand12";
             this.gridBand12.VisibleIndex = 1;
-            this.gridBand12.Width = 122;
+            this.gridBand12.Width = 163;
             // 
             // bandedGridColumn2
             // 
@@ -608,6 +632,7 @@ namespace Warehouse1
             this.bandedGridColumn2.DisplayFormat.FormatString = "n0";
             this.bandedGridColumn2.DisplayFormat.FormatType = DevExpress.Utils.FormatType.Numeric;
             this.bandedGridColumn2.FieldName = "gtNhapKho";
+            this.bandedGridColumn2.MinWidth = 27;
             this.bandedGridColumn2.Name = "bandedGridColumn2";
             this.bandedGridColumn2.OptionsColumn.AllowEdit = false;
             this.bandedGridColumn2.OptionsColumn.AllowFocus = false;
@@ -616,7 +641,7 @@ namespace Warehouse1
             this.bandedGridColumn2.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
             new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Sum, "gtNhapKho", "{0:n0}")});
             this.bandedGridColumn2.Visible = true;
-            this.bandedGridColumn2.Width = 122;
+            this.bandedGridColumn2.Width = 163;
             // 
             // gridBand13
             // 
@@ -629,9 +654,10 @@ namespace Warehouse1
             this.gridBand13.Children.AddRange(new DevExpress.XtraGrid.Views.BandedGrid.GridBand[] {
             this.gridBand14,
             this.gridBand15});
+            this.gridBand13.MinWidth = 13;
             this.gridBand13.Name = "gridBand13";
             this.gridBand13.VisibleIndex = 7;
-            this.gridBand13.Width = 212;
+            this.gridBand13.Width = 283;
             // 
             // gridBand14
             // 
@@ -644,7 +670,7 @@ namespace Warehouse1
             this.gridBand14.Columns.Add(this.bandedGridColumn3);
             this.gridBand14.Name = "gridBand14";
             this.gridBand14.VisibleIndex = 0;
-            this.gridBand14.Width = 105;
+            this.gridBand14.Width = 140;
             // 
             // bandedGridColumn3
             // 
@@ -662,6 +688,7 @@ namespace Warehouse1
             this.bandedGridColumn3.DisplayFormat.FormatString = "n0";
             this.bandedGridColumn3.DisplayFormat.FormatType = DevExpress.Utils.FormatType.Numeric;
             this.bandedGridColumn3.FieldName = "slXuatKho";
+            this.bandedGridColumn3.MinWidth = 27;
             this.bandedGridColumn3.Name = "bandedGridColumn3";
             this.bandedGridColumn3.OptionsColumn.AllowEdit = false;
             this.bandedGridColumn3.OptionsColumn.AllowFocus = false;
@@ -670,7 +697,7 @@ namespace Warehouse1
             this.bandedGridColumn3.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
             new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Sum, "slXuatKho", "{0:n0}")});
             this.bandedGridColumn3.Visible = true;
-            this.bandedGridColumn3.Width = 105;
+            this.bandedGridColumn3.Width = 140;
             // 
             // gridBand15
             // 
@@ -683,7 +710,7 @@ namespace Warehouse1
             this.gridBand15.Columns.Add(this.bandedGridColumn1);
             this.gridBand15.Name = "gridBand15";
             this.gridBand15.VisibleIndex = 1;
-            this.gridBand15.Width = 107;
+            this.gridBand15.Width = 143;
             // 
             // bandedGridColumn1
             // 
@@ -704,6 +731,7 @@ namespace Warehouse1
             this.bandedGridColumn1.DisplayFormat.FormatString = "n0";
             this.bandedGridColumn1.DisplayFormat.FormatType = DevExpress.Utils.FormatType.Numeric;
             this.bandedGridColumn1.FieldName = "gtXuatKho";
+            this.bandedGridColumn1.MinWidth = 27;
             this.bandedGridColumn1.Name = "bandedGridColumn1";
             this.bandedGridColumn1.OptionsColumn.AllowEdit = false;
             this.bandedGridColumn1.OptionsColumn.AllowFocus = false;
@@ -713,7 +741,7 @@ namespace Warehouse1
             this.bandedGridColumn1.Summary.AddRange(new DevExpress.XtraGrid.GridSummaryItem[] {
             new DevExpress.XtraGrid.GridColumnSummaryItem(DevExpress.Data.SummaryItemType.Sum, "gtXuatKho", "{0:n0}")});
             this.bandedGridColumn1.Visible = true;
-            this.bandedGridColumn1.Width = 107;
+            this.bandedGridColumn1.Width = 143;
             // 
             // gridBand17
             // 
@@ -726,9 +754,10 @@ namespace Warehouse1
             this.gridBand17.Children.AddRange(new DevExpress.XtraGrid.Views.BandedGrid.GridBand[] {
             this.gridBand16,
             this.gridBand18});
+            this.gridBand17.MinWidth = 13;
             this.gridBand17.Name = "gridBand17";
             this.gridBand17.VisibleIndex = 8;
-            this.gridBand17.Width = 188;
+            this.gridBand17.Width = 251;
             // 
             // gridBand16
             // 
@@ -741,7 +770,7 @@ namespace Warehouse1
             this.gridBand16.Columns.Add(this.bandedGridColumn4);
             this.gridBand16.Name = "gridBand16";
             this.gridBand16.VisibleIndex = 0;
-            this.gridBand16.Width = 93;
+            this.gridBand16.Width = 124;
             // 
             // bandedGridColumn4
             // 
@@ -759,13 +788,14 @@ namespace Warehouse1
             this.bandedGridColumn4.DisplayFormat.FormatString = "n0";
             this.bandedGridColumn4.DisplayFormat.FormatType = DevExpress.Utils.FormatType.Numeric;
             this.bandedGridColumn4.FieldName = "slCuoiKy";
+            this.bandedGridColumn4.MinWidth = 27;
             this.bandedGridColumn4.Name = "bandedGridColumn4";
             this.bandedGridColumn4.OptionsColumn.AllowEdit = false;
             this.bandedGridColumn4.OptionsColumn.AllowFocus = false;
             this.bandedGridColumn4.OptionsColumn.AllowShowHide = false;
             this.bandedGridColumn4.OptionsColumn.ReadOnly = true;
             this.bandedGridColumn4.Visible = true;
-            this.bandedGridColumn4.Width = 93;
+            this.bandedGridColumn4.Width = 124;
             // 
             // gridBand18
             // 
@@ -778,7 +808,7 @@ namespace Warehouse1
             this.gridBand18.Columns.Add(this.bandedGridColumn5);
             this.gridBand18.Name = "gridBand18";
             this.gridBand18.VisibleIndex = 1;
-            this.gridBand18.Width = 95;
+            this.gridBand18.Width = 127;
             // 
             // bandedGridColumn5
             // 
@@ -796,23 +826,25 @@ namespace Warehouse1
             this.bandedGridColumn5.DisplayFormat.FormatString = "n0";
             this.bandedGridColumn5.DisplayFormat.FormatType = DevExpress.Utils.FormatType.Numeric;
             this.bandedGridColumn5.FieldName = "gtCuoiKy";
+            this.bandedGridColumn5.MinWidth = 27;
             this.bandedGridColumn5.Name = "bandedGridColumn5";
             this.bandedGridColumn5.OptionsColumn.AllowEdit = false;
             this.bandedGridColumn5.OptionsColumn.AllowFocus = false;
             this.bandedGridColumn5.OptionsColumn.AllowShowHide = false;
             this.bandedGridColumn5.OptionsColumn.ReadOnly = true;
             this.bandedGridColumn5.Visible = true;
-            this.bandedGridColumn5.Width = 95;
+            this.bandedGridColumn5.Width = 127;
             // 
             // FormChiTietVatTu
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1330, 656);
+            this.ClientSize = new System.Drawing.Size(1773, 807);
             this.Controls.Add(this.gridControl1);
             this.Controls.Add(this.panelControl1);
             this.Controls.Add(this.panelControl2);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "FormChiTietVatTu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Sổ chi tiết vật tư";

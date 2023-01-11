@@ -114,7 +114,7 @@ namespace Warehouse1
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
             this.label3.Location = new System.Drawing.Point(5, 10);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(43, 18);
+            this.label3.Size = new System.Drawing.Size(53, 24);
             this.label3.TabIndex = 6;
             this.label3.Text = "Năm";
             // 
@@ -176,7 +176,7 @@ namespace Warehouse1
             this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
             this.label5.Location = new System.Drawing.Point(5, 10);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(38, 18);
+            this.label5.Size = new System.Drawing.Size(48, 24);
             this.label5.TabIndex = 14;
             this.label5.Text = "Quý";
             // 
@@ -213,7 +213,7 @@ namespace Warehouse1
             this.label4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
             this.label4.Location = new System.Drawing.Point(125, 10);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(43, 18);
+            this.label4.Size = new System.Drawing.Size(53, 24);
             this.label4.TabIndex = 6;
             this.label4.Text = "Năm";
             // 
@@ -275,7 +275,7 @@ namespace Warehouse1
             this.label6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
             this.label6.Location = new System.Drawing.Point(5, 10);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(54, 18);
+            this.label6.Size = new System.Drawing.Size(70, 24);
             this.label6.TabIndex = 14;
             this.label6.Text = "Tháng";
             // 
@@ -320,7 +320,7 @@ namespace Warehouse1
             this.label7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
             this.label7.Location = new System.Drawing.Point(139, 10);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(43, 18);
+            this.label7.Size = new System.Drawing.Size(53, 24);
             this.label7.TabIndex = 6;
             this.label7.Text = "Năm";
             // 
@@ -498,7 +498,7 @@ namespace Warehouse1
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
             this.label1.Location = new System.Drawing.Point(7, 11);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(27, 18);
+            this.label1.Size = new System.Drawing.Size(35, 24);
             this.label1.TabIndex = 5;
             this.label1.Text = "Từ";
             // 
@@ -528,7 +528,7 @@ namespace Warehouse1
             this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
             this.label2.Location = new System.Drawing.Point(169, 11);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(38, 18);
+            this.label2.Size = new System.Drawing.Size(48, 24);
             this.label2.TabIndex = 7;
             this.label2.Text = "Đến";
             // 
@@ -543,6 +543,7 @@ namespace Warehouse1
             this.gridControl1.TabIndex = 11;
             this.gridControl1.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.advBandedGridView1});
+            this.gridControl1.Click += new System.EventHandler(this.gridControl1_Click);
             // 
             // advBandedGridView1
             // 
@@ -859,7 +860,7 @@ namespace Warehouse1
             // 
             // ucLichSu
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.gridControl1);
             this.Controls.Add(this.panel1);

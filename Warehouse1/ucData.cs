@@ -55,8 +55,9 @@ namespace Warehouse1
             tabControlData.SelectedTab = tabPageNXDC;
         }
 
-        
+        private void tabPageTTSP_Click(object sender, EventArgs e)
+        {
 
-
+        }
     }
 }

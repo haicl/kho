@@ -19,22 +19,22 @@ namespace Warehouse1
 
         private void simpleButton1_MouseDown(object sender, MouseEventArgs e)
         {
+            ClassPlc reset_plc = new ClassPlc();
 
-            ClassPlc.Plc.GetDevice("M8000", out int M8000);
-            if (M8000 == 0)
+            if (reset_plc.check_connect_plc() == false)
             {
                 MessageBox.Show("Chưa kết nối! ");
             }
             else
             {
-                ClassPlc.Plc.SetDevice("M203", 1);
+                reset_plc.resetplc_uchome();
             }
         }
 
         private void FBaoLoi_Load(object sender, EventArgs e)
         {
-            ClassPlc.Plc.GetDevice("M8000", out int M8000);
-            if (M8000 == 0)
+            ClassPlc checkt_plc = new ClassPlc();
+            if (checkt_plc.check_connect_plc() == false)
             {
                 MessageBox.Show("Chưa kết nối! ");
             }
@@ -123,6 +123,11 @@ namespace Warehouse1
         }
 
         private void simpleButton1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void gridControl1_Click(object sender, EventArgs e)
         {
 
         }

@@ -52,8 +52,8 @@ namespace Warehouse1
         {
             lb_date.Text = DateTime.Now.Date.ToString("dd/MM/yyyy");
             lb_time.Text = DateTime.Now.ToString("HH:mm:ss");
-            ClassPlc.Plc.GetDevice("M8000", out int M8000);
-            if (M8000 == 0)
+            ClassPlc checkconnect = new ClassPlc();
+            if (checkconnect.check_connect_plc() == false)
             {
                 panelConnectPLC.BackgroundImage = Properties.Resources.filled_circle_Red1_20px;
             }
@@ -107,5 +107,9 @@ namespace Warehouse1
 
         }
 
+        private void tabPageHome_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

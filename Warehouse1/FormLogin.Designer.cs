@@ -37,6 +37,7 @@ namespace Warehouse1
             this.guna2Elipse2 = new Guna.UI2.WinForms.Guna2Elipse(this.components);
             this.guna2ButtonLogin = new Guna.UI2.WinForms.Guna2Button();
             this.panelControlLogin = new DevExpress.XtraEditors.PanelControl();
+            this.label1 = new System.Windows.Forms.Label();
             this.panelConnectDatabase = new System.Windows.Forms.Panel();
             this.labelControlLoiDangNhap = new DevExpress.XtraEditors.LabelControl();
             this.hyperlinkLabelControl1 = new DevExpress.XtraEditors.HyperlinkLabelControl();
@@ -50,7 +51,6 @@ namespace Warehouse1
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.guna2DragControl2 = new Guna.UI2.WinForms.Guna2DragControl(this.components);
             this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.label1 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.panelControlLogin)).BeginInit();
             this.panelControlLogin.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -86,10 +86,11 @@ namespace Warehouse1
             this.guna2ButtonLogin.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2ButtonLogin.ForeColor = System.Drawing.SystemColors.ControlLight;
             this.guna2ButtonLogin.HoverState.Parent = this.guna2ButtonLogin;
-            this.guna2ButtonLogin.Location = new System.Drawing.Point(194, 319);
+            this.guna2ButtonLogin.Location = new System.Drawing.Point(259, 393);
+            this.guna2ButtonLogin.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.guna2ButtonLogin.Name = "guna2ButtonLogin";
             this.guna2ButtonLogin.ShadowDecoration.Parent = this.guna2ButtonLogin;
-            this.guna2ButtonLogin.Size = new System.Drawing.Size(190, 54);
+            this.guna2ButtonLogin.Size = new System.Drawing.Size(253, 66);
             this.guna2ButtonLogin.TabIndex = 4;
             this.guna2ButtonLogin.Text = "Đăng nhập";
             this.guna2ButtonLogin.Click += new System.EventHandler(this.guna2ButtonLogin_Click);
@@ -120,18 +121,34 @@ namespace Warehouse1
             this.panelControlLogin.LookAndFeel.SkinName = "Office 2019 Black";
             this.panelControlLogin.LookAndFeel.Style = DevExpress.LookAndFeel.LookAndFeelStyle.Style3D;
             this.panelControlLogin.LookAndFeel.UseDefaultLookAndFeel = false;
+            this.panelControlLogin.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panelControlLogin.Name = "panelControlLogin";
-            this.panelControlLogin.Size = new System.Drawing.Size(587, 415);
+            this.panelControlLogin.Size = new System.Drawing.Size(783, 511);
             this.panelControlLogin.TabIndex = 0;
+            this.panelControlLogin.Paint += new System.Windows.Forms.PaintEventHandler(this.panelControlLogin_Paint);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.Transparent;
+            this.label1.Font = new System.Drawing.Font("Segoe UI", 27.75F, System.Drawing.FontStyle.Bold);
+            this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(64)))), ((int)(((byte)(89)))));
+            this.label1.Location = new System.Drawing.Point(240, 144);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(276, 62);
+            this.label1.TabIndex = 15;
+            this.label1.Text = "Đăng Nhập";
             // 
             // panelConnectDatabase
             // 
             this.panelConnectDatabase.BackColor = System.Drawing.Color.Transparent;
             this.panelConnectDatabase.BackgroundImage = global::Warehouse1.Properties.Resources.filled_circle_Red1_20px;
             this.panelConnectDatabase.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.panelConnectDatabase.Location = new System.Drawing.Point(8, 383);
+            this.panelConnectDatabase.Location = new System.Drawing.Point(11, 471);
+            this.panelConnectDatabase.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panelConnectDatabase.Name = "panelConnectDatabase";
-            this.panelConnectDatabase.Size = new System.Drawing.Size(24, 24);
+            this.panelConnectDatabase.Size = new System.Drawing.Size(32, 30);
             this.panelConnectDatabase.TabIndex = 14;
             // 
             // labelControlLoiDangNhap
@@ -140,18 +157,20 @@ namespace Warehouse1
             this.labelControlLoiDangNhap.Appearance.ForeColor = System.Drawing.Color.DarkRed;
             this.labelControlLoiDangNhap.Appearance.Options.UseFont = true;
             this.labelControlLoiDangNhap.Appearance.Options.UseForeColor = true;
-            this.labelControlLoiDangNhap.Location = new System.Drawing.Point(99, 386);
+            this.labelControlLoiDangNhap.Location = new System.Drawing.Point(132, 475);
+            this.labelControlLoiDangNhap.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.labelControlLoiDangNhap.Name = "labelControlLoiDangNhap";
-            this.labelControlLoiDangNhap.Size = new System.Drawing.Size(185, 17);
+            this.labelControlLoiDangNhap.Size = new System.Drawing.Size(243, 23);
             this.labelControlLoiDangNhap.TabIndex = 13;
             this.labelControlLoiDangNhap.Text = "Sai tên tài khoản hoặc mật khẩu!";
             this.labelControlLoiDangNhap.Visible = false;
             // 
             // hyperlinkLabelControl1
             // 
-            this.hyperlinkLabelControl1.Location = new System.Drawing.Point(457, 390);
+            this.hyperlinkLabelControl1.Location = new System.Drawing.Point(609, 480);
+            this.hyperlinkLabelControl1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.hyperlinkLabelControl1.Name = "hyperlinkLabelControl1";
-            this.hyperlinkLabelControl1.Size = new System.Drawing.Size(114, 13);
+            this.hyperlinkLabelControl1.Size = new System.Drawing.Size(132, 16);
             this.hyperlinkLabelControl1.TabIndex = 12;
             this.hyperlinkLabelControl1.Text = "https://intech-group.vn";
             this.hyperlinkLabelControl1.Click += new System.EventHandler(this.hyperlinkLabelControl1_Click);
@@ -161,9 +180,10 @@ namespace Warehouse1
             this.panelSetting.BackColor = System.Drawing.Color.Transparent;
             this.panelSetting.BackgroundImage = global::Warehouse1.Properties.Resources.icon_intech_group_chuan1;
             this.panelSetting.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.panelSetting.Location = new System.Drawing.Point(7, 5);
+            this.panelSetting.Location = new System.Drawing.Point(9, 6);
+            this.panelSetting.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panelSetting.Name = "panelSetting";
-            this.panelSetting.Size = new System.Drawing.Size(20, 20);
+            this.panelSetting.Size = new System.Drawing.Size(27, 25);
             this.panelSetting.TabIndex = 5;
             // 
             // panelClose
@@ -171,9 +191,10 @@ namespace Warehouse1
             this.panelClose.BackColor = System.Drawing.Color.Transparent;
             this.panelClose.BackgroundImage = global::Warehouse1.Properties.Resources.delete_30px;
             this.panelClose.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.panelClose.Location = new System.Drawing.Point(554, 5);
+            this.panelClose.Location = new System.Drawing.Point(739, 6);
+            this.panelClose.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panelClose.Name = "panelClose";
-            this.panelClose.Size = new System.Drawing.Size(28, 23);
+            this.panelClose.Size = new System.Drawing.Size(37, 28);
             this.panelClose.TabIndex = 7;
             this.panelClose.Click += new System.EventHandler(this.panelClose_Click);
             this.panelClose.MouseLeave += new System.EventHandler(this.panelClose_MouseLeave);
@@ -184,9 +205,10 @@ namespace Warehouse1
             this.panelMinimsize.BackColor = System.Drawing.Color.Transparent;
             this.panelMinimsize.BackgroundImage = global::Warehouse1.Properties.Resources.minus_30px;
             this.panelMinimsize.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.panelMinimsize.Location = new System.Drawing.Point(522, 5);
+            this.panelMinimsize.Location = new System.Drawing.Point(696, 6);
+            this.panelMinimsize.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panelMinimsize.Name = "panelMinimsize";
-            this.panelMinimsize.Size = new System.Drawing.Size(28, 23);
+            this.panelMinimsize.Size = new System.Drawing.Size(37, 28);
             this.panelMinimsize.TabIndex = 6;
             this.panelMinimsize.Click += new System.EventHandler(this.panelMinimsize_Click);
             this.panelMinimsize.MouseLeave += new System.EventHandler(this.panelMinimsize_MouseLeave);
@@ -197,9 +219,10 @@ namespace Warehouse1
             this.checkBoxRemember.AutoSize = true;
             this.checkBoxRemember.BackColor = System.Drawing.Color.Transparent;
             this.checkBoxRemember.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkBoxRemember.Location = new System.Drawing.Point(99, 287);
+            this.checkBoxRemember.Location = new System.Drawing.Point(132, 353);
+            this.checkBoxRemember.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.checkBoxRemember.Name = "checkBoxRemember";
-            this.checkBoxRemember.Size = new System.Drawing.Size(140, 21);
+            this.checkBoxRemember.Size = new System.Drawing.Size(179, 27);
             this.checkBoxRemember.TabIndex = 3;
             this.checkBoxRemember.Text = "Duy trì đăng nhập";
             this.checkBoxRemember.UseVisualStyleBackColor = false;
@@ -207,9 +230,10 @@ namespace Warehouse1
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(64)))), ((int)(((byte)(89)))));
-            this.panel1.Location = new System.Drawing.Point(186, 170);
+            this.panel1.Location = new System.Drawing.Point(248, 209);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(215, 1);
+            this.panel1.Size = new System.Drawing.Size(287, 1);
             this.panel1.TabIndex = 4;
             // 
             // guna2TextBoxPass
@@ -235,15 +259,15 @@ namespace Warehouse1
             this.guna2TextBoxPass.IconLeft = global::Warehouse1.Properties.Resources.icons8_lock_20px;
             this.guna2TextBoxPass.IconLeftSize = new System.Drawing.Size(30, 30);
             this.guna2TextBoxPass.IconRight = global::Warehouse1.Properties.Resources.icons8_eye_15px;
-            this.guna2TextBoxPass.Location = new System.Drawing.Point(99, 239);
-            this.guna2TextBoxPass.Margin = new System.Windows.Forms.Padding(6, 7, 6, 7);
+            this.guna2TextBoxPass.Location = new System.Drawing.Point(132, 294);
+            this.guna2TextBoxPass.Margin = new System.Windows.Forms.Padding(8, 9, 8, 9);
             this.guna2TextBoxPass.Name = "guna2TextBoxPass";
             this.guna2TextBoxPass.PasswordChar = '\0';
             this.guna2TextBoxPass.PlaceholderForeColor = System.Drawing.SystemColors.ControlDarkDark;
             this.guna2TextBoxPass.PlaceholderText = "password";
             this.guna2TextBoxPass.SelectedText = "";
             this.guna2TextBoxPass.ShadowDecoration.Parent = this.guna2TextBoxPass;
-            this.guna2TextBoxPass.Size = new System.Drawing.Size(388, 40);
+            this.guna2TextBoxPass.Size = new System.Drawing.Size(517, 49);
             this.guna2TextBoxPass.Style = Guna.UI2.WinForms.Enums.TextBoxStyle.Material;
             this.guna2TextBoxPass.TabIndex = 2;
             this.guna2TextBoxPass.UseSystemPasswordChar = true;
@@ -271,15 +295,15 @@ namespace Warehouse1
             this.guna2TextBoxUserName.HoverState.Parent = this.guna2TextBoxUserName;
             this.guna2TextBoxUserName.IconLeft = global::Warehouse1.Properties.Resources.icons8_user_male_20px_1;
             this.guna2TextBoxUserName.IconLeftSize = new System.Drawing.Size(30, 30);
-            this.guna2TextBoxUserName.Location = new System.Drawing.Point(99, 187);
-            this.guna2TextBoxUserName.Margin = new System.Windows.Forms.Padding(6, 7, 6, 7);
+            this.guna2TextBoxUserName.Location = new System.Drawing.Point(132, 230);
+            this.guna2TextBoxUserName.Margin = new System.Windows.Forms.Padding(8, 9, 8, 9);
             this.guna2TextBoxUserName.Name = "guna2TextBoxUserName";
             this.guna2TextBoxUserName.PasswordChar = '\0';
             this.guna2TextBoxUserName.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(125)))), ((int)(((byte)(137)))), ((int)(((byte)(149)))));
             this.guna2TextBoxUserName.PlaceholderText = "username";
             this.guna2TextBoxUserName.SelectedText = "";
             this.guna2TextBoxUserName.ShadowDecoration.Parent = this.guna2TextBoxUserName;
-            this.guna2TextBoxUserName.Size = new System.Drawing.Size(388, 40);
+            this.guna2TextBoxUserName.Size = new System.Drawing.Size(517, 49);
             this.guna2TextBoxUserName.Style = Guna.UI2.WinForms.Enums.TextBoxStyle.Material;
             this.guna2TextBoxUserName.TabIndex = 1;
             this.guna2TextBoxUserName.TextChanged += new System.EventHandler(this.guna2TextBoxUserName_TextChanged);
@@ -288,9 +312,10 @@ namespace Warehouse1
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox1.Image = global::Warehouse1.Properties.Resources._00_intech_group_chuan_k_nen;
-            this.pictureBox1.Location = new System.Drawing.Point(167, 27);
+            this.pictureBox1.Location = new System.Drawing.Point(223, 33);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(253, 88);
+            this.pictureBox1.Size = new System.Drawing.Size(337, 108);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
@@ -306,28 +331,17 @@ namespace Warehouse1
             this.timer1.Interval = 1500;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Segoe UI", 27.75F, System.Drawing.FontStyle.Bold);
-            this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(64)))), ((int)(((byte)(89)))));
-            this.label1.Location = new System.Drawing.Point(180, 117);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(218, 50);
-            this.label1.TabIndex = 15;
-            this.label1.Text = "Đăng Nhập";
-            // 
             // FormLogin
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveBorder;
-            this.ClientSize = new System.Drawing.Size(587, 415);
+            this.ClientSize = new System.Drawing.Size(783, 511);
             this.Controls.Add(this.panelControlLogin);
             this.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(46)))), ((int)(((byte)(53)))));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "FormLogin";
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
